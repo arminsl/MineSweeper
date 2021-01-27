@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Window">
+        <file>Cell.cpp</file>
+        <file>Cell.h</file>
+        <file>main.cpp</file>
+        <file>MineSweeper.vcxproj</file>
+        <file>MineSweeper.vcxproj.filters</file>
+        <file>MineSweeper.vcxproj.user</file>
+        <file>Window.cpp</file>
+        <file>Window.h</file>
+        <file>Window.qrc</file>
+        <file>Resources/mine.ico</file>
+        <file>Resources/clipart786779_wAa_icon.ico</file>
+        <file>Resources/New Project.ico</file>
+        <file>Resources/appmine.ico</file>
+    </qresource>
+</RCC>
